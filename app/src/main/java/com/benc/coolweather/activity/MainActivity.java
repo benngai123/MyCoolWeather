@@ -1,7 +1,9 @@
-package com.benc.coolweather;
+package com.benc.coolweather.activity;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+
+import com.benc.coolweather.R;
 
 public class MainActivity extends AppCompatActivity {
 
